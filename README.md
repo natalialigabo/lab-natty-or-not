@@ -24,7 +24,7 @@ O projeto resultou em um arquivo de áudio (`.m4a`) com alto nível de realismo.
 * **Machine Learning:** Diferenças entre Aprendizado Supervisionado e Não Supervisionado, e a arte da Engenharia de Atributos (Feature Engineering).
 * **Algoritmos:** Notação Big O, complexidade de tempo e busca binária.
 
-🎧 **[Clique aqui para ouvir o Podcast (Alta Qualidade)]([COLE_O_LINK_DO_DRIVE_AQUI](https://drive.google.com/file/d/1meaMIbq-zMSC5wIeGcSLnnXExbvToMOh/view?usp=sharing))**
+🎧 **[Clique aqui para ouvir o Podcast gerado (Arquivo no Repositório)](Do_Python_Básico_ao_Machine_Learning__Desvendando_Códigos,_Dado.m4a)**
 
 ## 💭 Reflexão (Opcional)
 O desafio de criar algo "Natty" (natural) com IA foi superado pelas capacidades do NotebookLM. É impressionante como a ferramenta consegue simular não apenas a voz humana, mas também a entonação de curiosidade, as pausas para respiração e a química entre os apresentadores. Isso demonstra como o aprendizado técnico pode ser democratizado e transformado em formatos de mídia consumíveis (áudio) de forma instantânea, desafiando a distinção entre um podcast gravado em estúdio e um gerado por algoritmos.
